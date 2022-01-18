@@ -1,0 +1,16 @@
+2022-01-17 23:23:35,256  INFO [main] stepDefination:34 - Savaari page navigated successfully
+2022-01-17 23:23:40,441  INFO [main] stepDefination:59 - successfully account created for savaari.com
+2022-01-17 23:23:50,894  INFO [main] stepDefination:77 - Savaari page navigated successfully
+2022-01-17 23:23:58,322  INFO [main] stepDefination:90 - Login successfully
+2022-01-17 23:24:06,905  INFO [main] stepDefination:110 - Savaari page navigated successfully
+2022-01-17 23:24:18,225  INFO [main] stepDefination:127 - navigated to car selection successfully
+2022-01-17 23:24:27,239  INFO [main] stepDefination:147 - Savaari page navigated successfully
+2022-01-17 23:24:40,027  INFO [main] stepDefination:165 - All bookings are diplayed
+2022-01-17 23:24:47,682  INFO [main] stepDefination:182 - Savaari page navigated successfully
+2022-01-17 23:24:58,355  INFO [main] stepDefination:199 - Account settings page navigated successfully
+2022-01-17 23:25:07,053  INFO [main] stepDefination:218 - Savaari page navigated successfully
+2022-01-17 23:25:09,361  INFO [main] stepDefination:226 - Trip Advisor page navigated successfully
+2022-01-17 23:25:30,364  INFO [main] stepDefination:246 - Savaari page navigated successfully
+2022-01-17 23:25:32,549  INFO [main] stepDefination:254 - Savaari app downloading page navigated successfully
+2022-01-17 23:26:54,459  INFO [main] stepDefination:273 - Savaari page navigated successfully
+2022-01-17 23:27:04,282  INFO [main] stepDefination:291 - Log Out successfully
